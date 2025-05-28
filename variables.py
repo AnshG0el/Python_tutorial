@@ -20,5 +20,19 @@ def guess_number():
         except ValueError:
             print("Please enter a valid number.")
 
+# Data type in python
 # Run the game
 guess_number()
+
+# int - Integer
+a = 10
+print("Integer:", a)
+
+# float - Decimal
+b = 3.14
+print("Float:", b)
+
+# complex - Real + Imaginary
+c = 2 + 3j
+print("Complex:", c)
+
